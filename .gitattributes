@@ -1,0 +1,2 @@
+# Preserve source bytes and line endings during checkout.
+* -text
